@@ -64,3 +64,12 @@ MIT License (if selected for this repository).
 Here is a sample output of the LLM-Based Document Classifier.
 
 ![Document Classifier Output](Document Clasiifier.PNG)
+
+Sample input:
+Watching 'E:\DocumentClassifier(AgentVerse)\inbox/' ... drop files in. Ctrl+C to stop.
+Sample output:
+New file: sample_purchase_requisition.pdf
+  extracted 1685 characters
+  LLM suggested: 'Purchase Requisitions' - The document is a purchase requisition form used for internal procurement requests, not an invoice.
+  -> moved to E:\DocumentClassifier(AgentVerse)\Sorted\Purchase Requisitions\sample_purchase_requisition.pdf
+
