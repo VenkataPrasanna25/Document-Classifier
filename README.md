@@ -17,6 +17,30 @@ An AI-powered document classification system that uses OpenAI models through a L
 - Python Virtual Environment (`venv`)
 - Python environment variables (`.env`)
 
+## Project Structure
+
+```text
+LLM-Based-Document-Classifier/
+│
+├── Agent.py
+├── Sample_LLM.py
+├── Requirements.txt
+├── README.md
+├── LICENSE
+├── .gitignore
+└── .gitattributes
+```
+
+### File Description
+
+- **Agent.py** — Python file for the agent implementation.
+- **Sample_LLM.py** — Python file for the sample LLM implementation.
+- **Requirements.txt** — Lists the Python dependencies required by the project.
+- **README.md** — Project overview, installation instructions, and usage guide.
+- **LICENSE** — Specifies the terms under which others can use your project.
+- **.gitignore** — Specifies files Git should ignore.
+- **.gitattributes** — Defines Git attributes for repository files.  
+
 ## Installation
 1. Clone this repository:
    ```bash
