@@ -1,0 +1,7 @@
+openai
+python-dotenv
+watchdog
+pypdf
+python-docx
+openpyxl
+python-pptx
