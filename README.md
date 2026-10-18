@@ -59,3 +59,8 @@ API keys and sensitive environment variables should never be committed to the re
 
 ## License
 MIT License (if selected for this repository).
+## Project Demo
+
+Here is a sample output of the LLM-Based Document Classifier.
+
+![Document Classifier Output](Document Clasiifier.PNG)
